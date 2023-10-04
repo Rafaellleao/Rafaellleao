@@ -4,8 +4,6 @@
 ### algumas caracteristicas
 
 - 🖥️  **Programador iniciante**
-- <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-
 - 🌎  Idioma portugues Brasil
 - 👨🏼‍💼  Ensino medio completo
 - Pega o [whatsApp](http://wa.me/5581985436959) ai .
