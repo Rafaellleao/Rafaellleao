@@ -6,8 +6,10 @@
 - 🖥️  **Programador iniciante**
 - 🌎  Idioma portugues Brasil
 - 👨🏼‍💼  Ensino medio completo
-- Pega o [whatsApp](http://wa.me/5581985436959) ai .
-  
+- Pega o  ai .
+  <a href= "http://wa.me/5581985436959">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 ### liguagem de programaçao
 
 <div display= "flex" display="inline" justify= "center">
