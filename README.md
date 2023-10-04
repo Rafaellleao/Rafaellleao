@@ -6,13 +6,17 @@
 - 🖥️  **Programador iniciante**
 - 🌎  Idioma portugues Brasil
 - 👨🏼‍💼  Ensino medio completo
-- Pega o  ai .
-  <a href= "http://wa.me/5581985436959">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
+<div display="inline">
+    <p> Pega ai o</p> 
+      <a href= "http://wa.me/5581985436959">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+</div>
+  
 ### liguagem de programaçao
 
-<div display= "flex" display="inline" justify= "center">
+<div display="inline">
   <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
