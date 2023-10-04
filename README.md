@@ -1,6 +1,10 @@
-- 🖥️  programador iniciante 
+### algumas caracteristicas
+
+- 🖥️  programador iniciante
 - 🌎  idioma portugues Brasil
 - 👨🏼‍💼  Ensino medio completo
+
+### liguagem de programaçao
 
 <!---
 Rafaellleao/Rafaellleao is a ✨ special ✨ repository because its `perfilmarkdown.md` (this file) appears on your GitHub profile.
