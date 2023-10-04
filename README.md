@@ -3,10 +3,10 @@
 
 ### algumas caracteristicas
 
-- 🖥️  programador iniciante
-- 🌎  idioma portugues Brasil
+- 🖥️  Programador iniciante
+- 🌎  Idioma portugues Brasil
 - 👨🏼‍💼  Ensino medio completo
-
+- Pega o [whatsApp](http://wa.me/5581985436959) ai .
 ### liguagem de programaçao
 
 <!---
