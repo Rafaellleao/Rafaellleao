@@ -27,7 +27,9 @@
 
   <div display= "inline">
    <img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-      <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+    <img  width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />    
+            <img width=50px height= 50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+          
   </div>  
     
 <!---
