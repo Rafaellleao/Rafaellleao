@@ -12,7 +12,7 @@
       <a href= "http://wa.me/5581985436959">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
       </a>
-    <p>Email: rafaelampaz@gmail.com</p>
+    <p>Email: rafaelampaz6@gmail.com</p>
 </div>
   
 ### liguagem de programaçao
